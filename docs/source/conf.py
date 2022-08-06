@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'sooko_documentation'
-copyright = '2022, Burhan'
-author = 'Burhan'
+copyright = '2021, Graziella'
+author = 'Graziella'
 
 release = '0.1'
 version = '0.1.0'
