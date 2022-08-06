@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'sooko_documentation'
+copyright = '2022, Burhan'
+author = 'Burhan'
 
 release = '0.1'
 version = '0.1.0'
