@@ -1,5 +1,5 @@
-API
----
+HDiagPro
+--------
 
 .. automodule:: able
 
