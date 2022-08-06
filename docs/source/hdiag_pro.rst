@@ -1,5 +1,5 @@
-Usage
-=====
+Hdiag Pro
+=========
 
 .. _installation:
 
