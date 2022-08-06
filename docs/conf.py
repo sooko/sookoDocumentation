@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'ABLE'
+project = u'sooko'
 copyright = u'2017, b3b'
 
 # The version info for the project you're documenting, acts as replacement for
