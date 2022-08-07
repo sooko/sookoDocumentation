@@ -4,8 +4,8 @@ HDiagPro
 
 Hardware Initial
 """"""""""""""""
-On some ports you are able to discover the available, built-in libraries that
-can be imported by entering the following at the :term:`REPL`::
+
+ :term:``::
 
 1. HDiagPro Hardware
 2. Ble Dongle
