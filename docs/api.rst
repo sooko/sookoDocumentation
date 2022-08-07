@@ -18,8 +18,8 @@ Hardware Connection
 """""""""""""""""""
  ::
 
-    1. connect the HDiagPro Hardware to Vehicle
-    2. connect BLE dongle or USB cable to Laptop
+    1. connect the HDiagPro Hardware to Vehicle 
+    2. connect BLE dongle or USB cable to Laptop 
     3. Switch IG to ON
 
 
@@ -33,7 +33,7 @@ start using the software
 
  ::
 
-    1. make sure the hardware is connected to the vehicle
+    1. make sure the hardware is connected to the vehicle and laptop
     2. Open the HDiagPro ECM Manager Software
     3. Press Connect to ECM Button
     4. The vehicle type pop up will appear, press the "OK" button to display the base map
@@ -84,6 +84,7 @@ Showing ECU Pin OUT
 
  ::
 
-    1. Press Flash Menu
+    1. Press Flash Data Menu
     2. Press menu icon
     3. choose the vehicle you want to see the pinout
+
