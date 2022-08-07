@@ -17,6 +17,7 @@ Hardware Initial
 Hardware Connection
 """""""""""""""""""
  ::
+
     1. connect the HDiagPro Hardware to Vehicle
     2. connect BLE dongle or USB cable to Laptop
     3. Switch IG to ON
@@ -30,6 +31,7 @@ Hardware Connection
 start using the software
 """"""""""""""""""""""""
  ::
+
     1. make sure the hardware is connected to the vehicle
     2. Open the HDiagPro ECM Manager Software
     3. Press Connect to ECM Button
@@ -40,6 +42,7 @@ start to editing
 """"""""""""""""
 
  ::
+
     1. click or block the section you want to edit
     2. right click on that section
     3. you can do increase or decrease the value, do linear vorizon or do linear vertical or you can directly to set the value with press set value selection
@@ -48,11 +51,13 @@ start to editing
 do flash
 """"""""
  ::
+
     1. Press Flash Button to send your edited maps to ECU
 
 Save Files
 """"""""""
  ::
+
     1. Press "save" Button to save your maps
     2. fill out the form from your project
     3. press "save"
@@ -65,7 +70,15 @@ Save Files
 Load Files
 """"""""""
  ::
+
     1. press "load" button
     2. select your maps name
     3. press open
     
+Showing ECU Pin OUT
+"""""""""""""""""""
+ ::
+
+    1. Press Flash Menu
+    2. Press menu icon
+    3. choose the vehicle you want to see the pinout
