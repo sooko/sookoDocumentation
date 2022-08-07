@@ -94,11 +94,10 @@ ECM Recovery
  
  ::
 
-    1. make sure the hardware is connected to the vehicle and laptop
+    1. make sure the hardware is connected to the vehicle and laptop :term:`Hardware Connection`
     2. Open the HDiagPro ECM Manager Software
     3. Press Connect to ECM Button
     4. recovery mode detected Pop up will appear
     5. press "OK"
     6. if the choice of the type of part number appears, then choose the right part number
     7. press "Flash" button to recover
-    
