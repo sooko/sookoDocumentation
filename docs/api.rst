@@ -24,7 +24,7 @@ Hardware Connection
 
 
 .. warning::
-    never connect the usb cable and dongle together
+    never connect the USB Cable and BLE Dongle together
 
 
 
@@ -88,3 +88,17 @@ Showing ECU Pin OUT
     2. Press menu icon
     3. choose the vehicle you want to see the pinout
 
+
+ECM Recovery
+""""""""""""
+ 
+ ::
+
+    1. make sure the hardware is connected to the vehicle and laptop
+    2. Open the HDiagPro ECM Manager Software
+    3. Press Connect to ECM Button
+    4. recovery mode detected Pop up will appear
+    5. press "OK"
+    6. if the choice of the type of part number appears, then choose the right part number
+    7. press "Flash" button to recover
+    
