@@ -1,7 +1,7 @@
 HDiagPro
 ========
 
-
+`HDiagPRo  <https://www.sooko.io/hdiag-pro-remap-ecm-honda/>`_
 Hardware Initial
 """"""""""""""""
 
@@ -94,7 +94,7 @@ ECM Recovery
  
  ::
 
-    1. make sure the hardware is connected to the vehicle and laptop :term:`Hardware Connection`
+    1. make sure the hardware is connected to the vehicle and laptop 
     2. Open the HDiagPro ECM Manager Software
     3. Press Connect to ECM Button
     4. recovery mode detected Pop up will appear
