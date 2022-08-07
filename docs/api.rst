@@ -24,7 +24,7 @@ Hardware Connection
 4. Press "Connect to ECM" button
 
 .. warning::
-never connect the usb cable and dongle together
+    never connect the usb cable and dongle together
 
 
 
