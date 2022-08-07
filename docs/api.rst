@@ -5,7 +5,7 @@ HDiagPro
 Hardware Initial
 """"""""""""""""
 
- :term:``::
+ ::
 
 1. HDiagPro Hardware
 2. Ble Dongle
