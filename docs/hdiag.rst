@@ -1,5 +1,5 @@
-HDiagPro
-========
+HDiag
+=====
 
 `HDiag  <https://www.sooko.io/hdiag-hondadiagnostic/>`_
 
@@ -9,10 +9,10 @@ Installation
 
  ::
 
-    1. Download Installer from `sooko.io/hdiag-installer  <https://www.sooko.io/hdiag-hondadiagnostic/>`_
-    2. 
-    3. 
-    4. 
+1. Download Installer from `sooko.io/hdiag-installer  <https://www.sooko.io/hdiag-hondadiagnostic/>`_
+2. 
+3. 
+4. 
 
 
 
