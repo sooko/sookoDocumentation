@@ -23,4 +23,5 @@ Usage
     1. connect the HDiagPro Hardware to Vehicle 
     2. connect  USB cable to Laptop 
     3. Switch IG to ON
+    4. open HDiag software in your laptop
 
